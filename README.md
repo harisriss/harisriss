@@ -59,12 +59,12 @@
 
   <br/>
 <br/>
-<div align="center">
+<!--<div align="center">
 <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=graywhite&locale=en&hide_border=false&username=harisriss&title_color=FF9800&icon_color=FF9800&bg_color=0D1116&text_color=EAE7E2" height="195" alt="stats graph"  />
 
 <br/>
 <br/>
-
+-->
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=graywhite&hide_border=false&username=harisriss&title_color=FF9800&bg_color=0D1116&text_color=EAE7E2" height=195 alt="languages graph"  />
